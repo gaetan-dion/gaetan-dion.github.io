@@ -10,12 +10,14 @@ Vous pourrez les visualiser directement au format HTML via cette [URL](https://g
 ## Les types de données R
 
 Le premier vise à prendre en main le langage R, en présentant les types de données et comment les manipuler.  
-* [Lien vers le document](https://github.com/gaetan-dion/notebooks_R/blob/master/Les%20types%20de%20donn%C3%A9es%20R.Rmd)
+* [Les-types-de-données-R](https://gaetan-dion.github.io/Les-types-de-donn%C3%A9es-R.html)  
 
 ## Mettre en forme des données
 
-Le second aborde le chargement de fichiers, modifications, réalisation d'agrégats, et écriture d'un fichier de résultats.  
+Le second aborde le chargement de fichiers, modifications, réalisation d'agrégats, et écriture d'un fichier de résultats. 
+* [Mettre-en-forme-des-données-R](https://gaetan-dion.github.io/Mettre%20en%20forme%20des%20donn%C3%A9es.nb.html)  
 
 ## Tracer des graphiques R
 
-Enfin, le dernier expose la création de graphiques afin d'explorer et de comprendre un jeu de données (diagrammes en barre, courbe...).  
+Enfin, le dernier expose la création de graphiques afin d'explorer et de comprendre un jeu de données (diagrammes en barre, courbe...). 
+* [Tracer-des-graphiques-R](https://gaetan-dion.github.io/Tracer%20des%20graphiques%20R.nb.html)  
