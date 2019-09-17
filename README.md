@@ -5,6 +5,8 @@ Un notebook étant un cahier intéractif, composé de plusieurs cellules, mélan
 
 Il s'adresse à des data scientists, des développeurs, ou toute personne voulant s'initier au langage R de manière ludique, en s'appuyant sur des jeux de données concrets.  
 
+Vous pourrez les visualiser directement au format HTML via cette [URL](https://gaetan-dion.github.io/), si vous n'y êtes pas déjà.
+
 ## Les types de données R
 
 Le premier vise à prendre en main le langage R, en présentant les types de données et comment les manipuler.  
