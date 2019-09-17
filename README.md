@@ -10,6 +10,7 @@ Vous pourrez les visualiser directement au format HTML via cette [URL](https://g
 ## Les types de données R
 
 Le premier vise à prendre en main le langage R, en présentant les types de données et comment les manipuler.  
+* [Lien vers le document](https://github.com/gaetan-dion/notebooks_R/blob/master/Les%20types%20de%20donn%C3%A9es%20R.Rmd)
 
 ## Mettre en forme des données
 
